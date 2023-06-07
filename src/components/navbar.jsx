@@ -1,17 +1,17 @@
 const Navbar = () => {
   return (
     <header className="h-20 w-full flex justify-between items-center container lg:px-44">
-      <span class="text-gray-900 inline-flex items-center lg:font-bold lg:text-2xl text-xl font-normal">
+      <span className="text-gray-900 inline-flex items-center lg:font-bold lg:text-2xl text-xl font-normal">
         <svg
-          class="text-sky-500 stroke-current mr-1"
+          className="text-sky-500 stroke-current mr-1"
           xmlns="http://www.w3.org/2000/svg"
           width="44"
           height="44"
           viewBox="0 0 24 24"
-          stroke-width="1.5"
+          strokeWidth="1.5"
           fill="none"
-          stroke-linecap="round"
-          stroke-linejoin="round"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         >
           <path d="M0 0h24v24H0z" stroke="none"></path>
           <rect x="3" y="12" width="6" height="8" rx="1"></rect>
