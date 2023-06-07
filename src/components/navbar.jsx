@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
-    <header className="h-20 w-full flex justify-between items-center container lg:px-52">
-      <span class="text-gray-900 inline-flex items-center lg:font-semibold lg:text-2xl text-xl font-normal">
+    <header className="h-20 w-full flex justify-between items-center container lg:px-44">
+      <span class="text-gray-900 inline-flex items-center lg:font-bold lg:text-2xl text-xl font-normal">
         <svg
           class="text-sky-500 stroke-current mr-1"
           xmlns="http://www.w3.org/2000/svg"
