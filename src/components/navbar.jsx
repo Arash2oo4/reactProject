@@ -22,8 +22,8 @@ const Navbar = () => {
         landing
       </span>
       <ul className="flex items-center gap-4">
-        <li className="hover:text-sky-500 lg:text-xl"><a href="https://github.com/Arash2oo4/">Github</a></li>
-        <li className="hover:text-sky-500 lg:text-xl"><a href="https://arashlatifi.ir/">website</a></li>
+        <li  className="hover:text-sky-500 lg:text-xl"><a target="_blank" href="https://github.com/Arash2oo4/">Github</a></li>
+        <li className="hover:text-sky-500 lg:text-xl"><a  target="_blank" href="https://arashlatifi.ir/">website</a></li>
       </ul>
     </header>
   );
